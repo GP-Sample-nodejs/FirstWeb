@@ -8,3 +8,5 @@
 .mvn/*
 /bin/
 /node_modules/
+/.jshintrc
+/.tern-project
